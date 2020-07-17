@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ignite210695/ignite210695.github.io
+	branch = master
